@@ -12,6 +12,21 @@ img {
   font-weight: 900;
 }
 
+.container {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.plants {
+  max-width: 200;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
